@@ -12,7 +12,7 @@ Visit my Kaggle profile: [aadarshprabhakumar](https://www.kaggle.com/aadarshprab
 - `mini-courses/` – Kaggle courses and notebooks
 - `competitions/` – Notebooks and solutions for Kaggle competitions
 
-Each folder includes READMEs and relevant materials like certificates or links to online notebooks.
+Each folder includes READMEs and relevant materials like certificates or/and links to online notebooks.
 
 ## Notes
 
