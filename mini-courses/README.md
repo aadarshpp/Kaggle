@@ -1,4 +1,4 @@
-# Kaggle Mini-Courses Progress
+# Kaggle Mini-Courses
 
 Tracking my journey through Kaggle's official courses.
 
