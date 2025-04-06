@@ -16,4 +16,4 @@ Each folder includes READMEs and relevant materials like certificates or/and lin
 
 ## Notes
 
-The goal is to build a documented learning path in data science using Kaggle’s ecosystem.
+The goal is to build a documented learning path in data science using Kaggle.
