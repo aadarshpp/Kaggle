@@ -6,7 +6,7 @@ This foundational [Python course](https://www.kaggle.com/learn/python), authored
 
 ## Notebook Links
 
-- [Lesson 1: Hello, Python](https://www.kaggle.com/code/aadarshprabhakumar/exercise-hello-python) – Variables, printing, arithmetic, and string manipulation  
+- [Lesson 1: Hello, Python](https://www.kaggle.com/code/aadarshprabhakumar/exercise-syntax-variables-and-numbers/) – Variables, printing, arithmetic, and string manipulation  
 - [Lesson 2: Functions and Getting Help](https://www.kaggle.com/code/aadarshprabhakumar/exercise-functions-and-getting-help) – Calling, defining, and getting help with functions  
 - [Lesson 3: Booleans and Conditionals](https://www.kaggle.com/code/aadarshprabhakumar/exercise-booleans-and-conditionals) – Boolean values and `if` statements  
 - [Lesson 4: Lists](https://www.kaggle.com/code/aadarshprabhakumar/exercise-lists) – Storing and working with collections of data  
