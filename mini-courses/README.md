@@ -1,0 +1,13 @@
+# Kaggle Mini-Courses Progress
+
+Tracking my journey through Kaggle's official courses.
+
+## Progress
+- [x] Intro to Programming
+- [x] Python
+- [x] Data Visualization
+- [ ] Pandas  
+- [ ] Intro to Machine Learning  
+- [ ] Intermediate Machine Learning  
+- [ ] Feature Engineering  
+- [ ] Python for Data Science  
