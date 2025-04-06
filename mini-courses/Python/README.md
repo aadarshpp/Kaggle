@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This foundational Python course, authored by **ColinMorris**, focuses on essential Python skills with practical coding exercises.
+This foundational Python course, authored by [**ColinMorris**](https://www.kaggle.com/colinmorris), focuses on essential Python skills with practical coding exercises.
 
 ## Notebook Links
 
