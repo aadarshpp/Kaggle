@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This foundational Python course, authored by **Alexis Cook**, focuses on essential Python skills with practical coding exercises.
+This foundational Python course, authored by **ColinMorris**, focuses on essential Python skills with practical coding exercises.
 
 ## Notebook Links
 
