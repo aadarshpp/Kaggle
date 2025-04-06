@@ -14,7 +14,7 @@ This beginner-friendly course introduces Python fundamentals, ideal for those wi
 
 ## Certificate
 
-[View Certificate](<link-to-certificate-or-pdf>)
+[View Certificate](https://www.kaggle.com/learn/certification/aadarshprabhakumar/intro-to-programming)
 
 ## Notes
 
