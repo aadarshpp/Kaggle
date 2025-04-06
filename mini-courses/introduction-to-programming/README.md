@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This beginner-friendly course, authored by **Alexis Cook**, Head of Kaggle Learn at Kaggle, introduces Python fundamentals through hands-on exercises.
+This beginner-friendly course, authored by [Alexis Cook](https://www.kaggle.com/alexisbcook/), Head of Kaggle Learn at Kaggle, introduces Python fundamentals through hands-on exercises.
 
 ## Notebook Links
 
