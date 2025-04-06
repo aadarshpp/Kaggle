@@ -15,7 +15,3 @@ This beginner-friendly course, authored by **Alexis Cook**, Head of Kaggle Learn
 ## Certificate
 
 [View Certificate](https://www.kaggle.com/learn/certification/aadarshprabhakumar/intro-to-programming)
-
-## Notes
-
-This was my first course on Kaggle Learn. It helped me get started with Python by combining concepts with hands-on coding practice in an interactive notebook format.
