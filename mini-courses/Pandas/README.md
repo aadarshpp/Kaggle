@@ -6,13 +6,13 @@ This course covers the essential features of the Pandas library for data analysi
 
 ## Notebook Links
 
-- [Lesson 1: Creating, Reading and Writing](https://www.kaggle.com/code/yourusername/exercise-creating-reading-and-writing) – Reading, writing, and creating data structures  
-- [Lesson 2: Indexing, Selecting & Assigning](https://www.kaggle.com/code/yourusername/exercise-indexing-selecting-assigning) – Accessing and modifying data  
-- [Lesson 3: Summary Functions and Maps](https://www.kaggle.com/code/yourusername/exercise-summary-functions-and-maps) – Aggregating and transforming data  
-- [Lesson 4: Grouping and Sorting](https://www.kaggle.com/code/yourusername/exercise-grouping-and-sorting) – Group-wise analysis and sorting operations  
-- [Lesson 5: Data Types and Missing Values](https://www.kaggle.com/code/yourusername/exercise-data-types-and-missing-values) – Handling missing data and understanding data types  
-- [Lesson 6: Renaming and Combining](https://www.kaggle.com/code/yourusername/exercise-renaming-and-combining) – Merging, joining, and renaming data
+- [Lesson 1: Creating, Reading and Writing](https://www.kaggle.com/code/aadarshprabhakumar/exercise-creating-reading-and-writing) – Reading, writing, and creating data structures  
+- [Lesson 2: Indexing, Selecting & Assigning](https://www.kaggle.com/code/aadarshprabhakumar/exercise-indexing-selecting-assigning) – Accessing and modifying data  
+- [Lesson 3: Summary Functions and Maps](https://www.kaggle.com/code/aadarshprabhakumar/exercise-summary-functions-and-maps) – Aggregating and transforming data  
+- [Lesson 4: Grouping and Sorting](https://www.kaggle.com/code/aadarshprabhakumar/exercise-grouping-and-sorting) – Group-wise analysis and sorting operations  
+- [Lesson 5: Data Types and Missing Values](https://www.kaggle.com/code/aadarshprabhakumar/exercise-data-types-and-missing-values) – Handling missing data and understanding data types  
+- [Lesson 6: Renaming and Combining](https://www.kaggle.com/code/aadarshprabhakumar/exercise-renaming-and-combining) – Merging, joining, and renaming data
 
 ## Certificate
 
-[View Certificate](https://www.kaggle.com/learn/certification/yourusername/pandas)
+[View Certificate](https://www.kaggle.com/learn/certification/aadarshprabhakumar/pandas)
