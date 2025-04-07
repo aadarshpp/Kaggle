@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course covers the essential features of the Pandas library for data analysis, including reading and writing data, indexing and selecting, summary functions, grouping, handling missing values, and combining datasets.
+This [Pandas course](https://www.kaggle.com/learn/pandas) authored by [Aleksey Bilogur](https://www.kaggle.com/residentmario) covers the essential features of the Pandas library for data analysis, including reading and writing data, indexing and selecting, summary functions, grouping, handling missing values, and combining datasets.
 
 ## Notebook Links
 
