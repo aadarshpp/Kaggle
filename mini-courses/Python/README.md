@@ -13,7 +13,6 @@ This foundational [Python course](https://www.kaggle.com/learn/python), authored
 - [Lesson 5: Loops and List Comprehensions](https://www.kaggle.com/code/aadarshprabhakumar/exercise-loops-and-list-comprehensions) – For loops and concise list transformations  
 - [Lesson 6: Strings and Dictionaries](https://www.kaggle.com/code/aadarshprabhakumar/exercise-strings-and-dictionaries) – Text processing and key-value storage  
 - [Lesson 7: External Libraries](https://www.kaggle.com/code/aadarshprabhakumar/exercise-working-with-external-libraries) – Importing and using packages like NumPy
-<a href="https://www.kaggle.com/code/aadarshprabhakumar/exercise-working-with-external-libraries" target="_blank">Open Kaggle Notebook</a>
 
 ## Certificate
 
